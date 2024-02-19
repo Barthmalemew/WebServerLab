@@ -8,7 +8,7 @@ clone from git@github.com:Barthmalemew/WebServerLab.git
 ## Usage
 
 ### run server in terminal
-'''
+'''NOTE
 python ./TCPserver.py
 '''
 
