@@ -6,12 +6,11 @@ and responds by sending the http code and contents of the file to the client.
 clone from git@github.com:Barthmalemew/WebServerLab.git
 
 ## Usage
---
-**run server in terminal**
 
+### run server in terminal
+'''
 python ./TCPserver.py
-
---
+'''
 
 --
 **run client in another terminal**
