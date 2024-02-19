@@ -8,17 +8,17 @@ clone from git@github.com:Barthmalemew/WebServerLab.git
 ## Usage
 
 ### run server in terminal
-``` python
+``` 
 python ./TCPserver.py
 ```
 
 ### run client in another terminal
-``` python
+``` 
 python ./TCPclient.py
 ```
 
 ### enter file name you would like to access from the server(note: provided file is index.html)
-``` bash
+``` 
 index.html
 ```
 
