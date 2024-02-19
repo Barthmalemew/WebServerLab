@@ -3,7 +3,9 @@ server that recieves a request for a file in python from a client,
 and responds by sending the http code and contents of the file to the client. 
 
 ## Installation
+```
 clone from git@github.com:Barthmalemew/WebServerLab.git
+```
 
 ## Usage
 
